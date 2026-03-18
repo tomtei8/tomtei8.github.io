@@ -54,7 +54,7 @@ To run this site locally:
     xdg-open index.html
     ```
 
- Or use a local development server (Python):
+4. Or use a local development server (Python):
     ```bash
     # Python 3
     python -m http.server 8000
@@ -63,7 +63,7 @@ To run this site locally:
     python -m SimpleHTTPServer 8000
     ```
 
- Then visit http://localhost:8000
+Then visit http://localhost:8000
 
 ##  Project Structure
 
