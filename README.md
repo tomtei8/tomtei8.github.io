@@ -67,15 +67,15 @@ Then visit http://localhost:8000
 
 ##  Project Structure
 
-    ```bash
-    tomtei8.github.io/
-    │
-    ├── index.html          # Main HTML file
-    ├── style.css           # All styles and responsive design
-    ├── README.md           # This file
-    └── assets/             # For images, PDFs, etc.
-        └── cv.pdf          # Downloadable resume version
-    ```
+```
+tomtei8.github.io/
+│
+├── index.html          # Main HTML file
+├── style.css           # All styles and responsive design
+├── README.md           # This file
+└── assets/             # For images, PDFs, etc.
+    └── cv.pdf          # Downloadable resume version
+```
 
 ##  Customization
 
