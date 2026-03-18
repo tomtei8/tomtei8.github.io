@@ -67,13 +67,15 @@ Then visit http://localhost:8000
 
 ##  Project Structure
 
-tomtei8.github.io/
-│
-├── index.html          # Main HTML file
-├── style.css           # All styles and responsive design
-├── README.md           # This file
-└── assets/             # For images, PDFs, etc.
-    └── cv.pdf          # Downloadable resume version
+    ```bash
+    tomtei8.github.io/
+    │
+    ├── index.html          # Main HTML file
+    ├── style.css           # All styles and responsive design
+    ├── README.md           # This file
+    └── assets/             # For images, PDFs, etc.
+        └── cv.pdf          # Downloadable resume version
+    ```
 
 ##  Customization
 
@@ -95,7 +97,7 @@ This project is open source and available under the MIT License.
 
 * GitHub: [@tomtei8](https://github.com/tomtei8 "My GitHub profile")
 
-* LinkedIn: Teija Ouramaa (https://www.linkedin.com/in/teija-ouramaa "My LinkedIn profile")
+* LinkedIn: [Teija Ouramaa](https://www.linkedin.com/in/teija-ouramaa "My LinkedIn profile")
 
 
 *Last updated: March 2026*
